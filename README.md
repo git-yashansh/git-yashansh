@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b><i> Software Developer 🚀</i></b>
+  <b><i> Full Stack Developer🚀</i></b>
 </p>
 
 <p align="center">
