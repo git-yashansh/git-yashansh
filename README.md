@@ -4,14 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Kumar%20Yashansh&fontSize=45&color=0:00F7FF,100:0077FF&stroke=00F7FF&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer;🤖+Machine+Learning+Enthusiast;💻+Open+Source+Contributor;⚡+Always+Building+Cool+Stuff" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Building+Cool+Stuff" />
 
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="./source.png" width="170"/>
+  <img src="./open.png" width="170"/>
   <img src="./contributor.png" width="170"/>
 </p>
 
