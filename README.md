@@ -42,7 +42,7 @@
 <p align="center">
 
 <a href="https://github.com/git-yashansh/INT-219-PROJECT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=git-yashansh&repo=INT-219-PROJECT&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=git-yashansh&repo=INT-219-PROJECT&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/git-yashansh/ROOFTOPIA">
