@@ -8,21 +8,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🚀+Full+Stack+Developer;🤖+Machine+Learning+Enthusiast;💻+Open+Source+Contributor;⚡+Always+Building+Cool+Stuff" />
 </p>
 
----
-
-<!-- 🌈 ANIMATED LINE -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212259407-8c5c1d3b-2b55-4c9a-8c0b-0e3b9c3b91f5.gif" width="100%" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="./gssoc-open-source.png" width="170"/>
-  <img src="./gssoc-contributor.png" width="170"/>
+  <img src="./source.png" width="170"/>
+  <img src="./contributor.png" width="170"/>
 </p>
 
 ---
@@ -43,21 +33,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212259407-8c5c1d3b-2b55-4c9a-8c0b-0e3b9c3b91f5.gif" width="100%" />
 </p>
 
----
 
-## 🚀 Featured Projects
-
-<p align="center">
-<a href="https://github.com/git-yashansh/INT-219-PROJECT">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=git-yashansh&repo=INT-219-PROJECT&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/git-yashansh/ROOFTOPIA">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=git-yashansh&repo=ROOFTOPIA&theme=tokyonight" />
-</a>
-</p>
-
----
 
 <!-- 🌈 LINE -->
 
@@ -116,23 +92,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=git-yashansh&theme=algolia" />
 </p>
 
----
-
-## ✍️ Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/git-yashansh/git-yashansh/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 <!-- 🌈 FOOTER -->
 
