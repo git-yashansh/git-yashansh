@@ -1,10 +1,12 @@
 <!-- 🔥 NEON HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Kumar%20Yashansh&fontSize=45&color=0:00F7FF,100:0077FF&stroke=00F7FF&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=180&text=KUMAR%20YASHANSH&fontSize=45&color=0:00F7FF,100:0066FF&fontColor=ffffff&animation=twinkling" />
 </p>
-
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Building+Cool+Stuff" />
+</p>
+---
 
 ## 🏆 Achievements
 
@@ -23,17 +25,6 @@
 🤝 Open to Open Source & Collaboration<br>
 ⚡ Hands-on experience with multiple programming languages
 
----
-
-<!-- 🌈 LINE -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212259407-8c5c1d3b-2b55-4c9a-8c0b-0e3b9c3b91f5.gif" width="100%" />
-</p>
-
-
-
-<!-- 🌈 LINE -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212259407-8c5c1d3b-2b55-4c9a-8c0b-0e3b9c3b91f5.gif" width="100%" />
@@ -57,15 +48,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,c,cpp,git,github,vscode" />
 </p>
 
----
-
-<!-- 🌈 LINE -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212259407-8c5c1d3b-2b55-4c9a-8c0b-0e3b9c3b91f5.gif" width="100%" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -73,8 +55,6 @@
 <img src="https://github-readme-stats.shion.dev/api?username=git-yashansh&theme=tokyonight" />
 <img src="https://streak-stats.demolab.com/?user=git-yashansh&theme=tokyonight" />
 </p>
-
----
 
 ## 📈 Top Languages
 
